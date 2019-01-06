@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="actors_main" target="11" />
+      <module name="actors_test" target="11" />
+      <module name="bears_main" target="11" />
+      <module name="bears_test" target="11" />
+      <module name="fairy_main" target="11" />
+      <module name="fairy_test" target="11" />
+      <module name="formula_main" target="11" />
+      <module name="formula_test" target="11" />
+      <module name="pigs_main" target="11" />
+      <module name="pigs_test" target="11" />
+      <module name="storyteller.actors.main" target="1.8" />
+      <module name="storyteller.actors.test" target="1.8" />
+      <module name="storyteller.bears.main" target="1.8" />
+      <module name="storyteller.bears.test" target="1.8" />
+      <module name="storyteller.fairy.main" target="1.8" />
+      <module name="storyteller.fairy.test" target="1.8" />
+      <module name="storyteller.formula.main" target="1.8" />
+      <module name="storyteller.formula.test" target="1.8" />
+      <module name="storyteller.pigs.main" target="1.8" />
+      <module name="storyteller.pigs.test" target="1.8" />
+      <module name="storyteller.tale.main" target="1.8" />
+      <module name="storyteller.tale.test" target="1.8" />
+      <module name="tale_main" target="11" />
+      <module name="tale_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

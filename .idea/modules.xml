@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/actors/actors.iml" filepath="$PROJECT_DIR$/.idea/modules/actors/actors.iml" group="actors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/actors/actors_main.iml" filepath="$PROJECT_DIR$/.idea/modules/actors/actors_main.iml" group="actors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/actors/actors_test.iml" filepath="$PROJECT_DIR$/.idea/modules/actors/actors_test.iml" group="actors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bears/bears.iml" filepath="$PROJECT_DIR$/.idea/modules/bears/bears.iml" group="bears" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bears/bears_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bears/bears_main.iml" group="bears" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bears/bears_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bears/bears_test.iml" group="bears" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fairy/fairy.iml" filepath="$PROJECT_DIR$/.idea/modules/fairy/fairy.iml" group="fairy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fairy/fairy_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fairy/fairy_main.iml" group="fairy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fairy/fairy_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fairy/fairy_test.iml" group="fairy" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/formula/formula.iml" filepath="$PROJECT_DIR$/.idea/modules/formula/formula.iml" group="formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/formula/formula_main.iml" filepath="$PROJECT_DIR$/.idea/modules/formula/formula_main.iml" group="formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/formula/formula_test.iml" filepath="$PROJECT_DIR$/.idea/modules/formula/formula_test.iml" group="formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pigs/pigs.iml" filepath="$PROJECT_DIR$/.idea/modules/pigs/pigs.iml" group="pigs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pigs/pigs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pigs/pigs_main.iml" group="pigs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pigs/pigs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pigs/pigs_test.iml" group="pigs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storyteller.iml" filepath="$PROJECT_DIR$/.idea/modules/storyteller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tale/tale.iml" filepath="$PROJECT_DIR$/.idea/modules/tale/tale.iml" group="tale" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tale/tale_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tale/tale_main.iml" group="tale" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tale/tale_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tale/tale_test.iml" group="tale" />
+    </modules>
+  </component>
+</project>
