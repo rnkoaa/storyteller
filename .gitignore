@@ -30,6 +30,8 @@ buildNumber.properties
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 
+*.iml
+
 # Gradle
 build/
 .idea/**/gradle.xml
